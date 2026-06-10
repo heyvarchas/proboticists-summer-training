@@ -113,7 +113,7 @@ Required Python libraries:
 
 ```bash
 git clone https://github.com/heyvarchas/proboticists-summer-training.git
-cd .\proboticists-summer-training\autonomous_subsystem\
+cd .\proboticists-summer-training\machine-learning_subsystem\linear-regression\
 ```
 
 2. Create and activate a virtual environment (optional):
