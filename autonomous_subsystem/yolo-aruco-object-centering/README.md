@@ -84,6 +84,10 @@ Recommended environment:
 ├── Project_Demonstration.mp4
 ├── Object_Center_Detection.png
 ├── Frame_Center_Detection.png
+├── marker_0.png
+├── marker_1.png
+├── marker_2.png
+├── marker_3.png
 └── README.md
 ```
 
@@ -92,6 +96,7 @@ Recommended environment:
 - `Project_Demonstration.mp4` is the recorded demo of the working system.
 - `Object_Center_Detection.png` shows the detected object center.
 - `Frame_Center_Detection.png` shows the computed frame center.
+- `marker_id.png` shows the markers generated and used in the demonstrations.
 
 ---
 
