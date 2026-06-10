@@ -92,11 +92,17 @@ Required Python libraries:
 .
 ├── Documentation.ipynb
 ├── linear_regression_dataset.csv
+├── grad_descent_convergence.png
+├── models_visualisation.png
+├── result.png
 └── README.md
 ```
 
 * `Documentation.ipynb` contains the complete implementation, explanations, references, visualizations, and analysis.
 * `linear_regression_dataset.csv` contains the dataset used for training and evaluation.
+* `grad_descent_convergence.png` shows the convergence of the model using gradient descent.
+* `models_visualisation.png` shows the actual v/s predicted values for the data points using both models.
+* `result.png` shows the final result obtained and compares the two approaches for linear prediction.
 * `README.md` provides project documentation.
 
 ---
