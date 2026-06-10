@@ -67,3 +67,13 @@ Since autonomous robotics projects often vary significantly in scope and impleme
 The goal of this directory is to maintain a structured collection of autonomous robotics projects developed during training, experimentation, and research, while ensuring that each project remains independently understandable and reproducible.
 
 ---
+
+# Contributors
+
+* Varchas Jasti
+
+---
+
+# License
+
+MIT License.

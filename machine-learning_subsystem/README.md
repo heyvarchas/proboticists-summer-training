@@ -66,3 +66,15 @@ Since machine learning projects often differ in terms of datasets, algorithms, a
 ## Purpose
 
 The goal of this directory is to maintain a structured collection of machine learning projects developed during training, experimentation, and research, while ensuring that each project remains independently understandable and reproducible.
+
+---
+
+# Contributors
+
+* Varchas Jasti
+
+---
+
+# License
+
+MIT License.
