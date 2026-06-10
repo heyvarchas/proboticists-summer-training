@@ -112,8 +112,8 @@ Required Python libraries:
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/heyvarchas/proboticists-summer-training.git
+cd .\proboticists-summer-training\autonomous_subsystem\
 ```
 
 2. Create and activate a virtual environment (optional):
