@@ -90,7 +90,7 @@ Include:
 # Project Structure
 
 ```text
-Decision-Tree-Hyperparameter-Tuning/
+./
 │
 ├── Documentation.ipynb
 ├── README.md
