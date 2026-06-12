@@ -93,6 +93,7 @@ Include:
 ./
 │
 ├── Documentation.ipynb
+├── project_summary.md
 ├── README.md
 ├── images/
 │   ├── dataset_head.png
@@ -125,6 +126,7 @@ Include:
 | File                | Purpose                                       |
 | ------------------- | --------------------------------------------- |
 | Documentation.ipynb | Complete implementation and analysis notebook |
+| project_summary.md  | Visual overview of the entire project         |
 | README.md           | Project documentation                         |
 | images/             | Stores plots and visualizations               |
 | requirements.txt    | Python dependencies                           |
