@@ -127,19 +127,37 @@ Decision-Tree-Hyperparameter-Tuning/
 
 # Installation
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/heyvarchas/proboticists-summer-training.git
 ```
 
-Navigate into the project directory:
+2. Navigate into the project directory:
 
 ```bash
 cd .\proboticists-summer-training\machine-learning_subsystem\decision-tree-hyperparameter-analysis\
 ```
 
-Install required packages:
+3. Create and activate a virtual environment (optional):
+
+```bash
+python -m venv .venv
+```
+
+Windows:
+
+```bash
+.venv\Scripts\activate
+```
+
+Linux/Mac:
+
+```bash
+source .venv/bin/activate
+```
+
+4. Install required packages:
 
 ```bash
 pip install -r requirements.txt
@@ -149,7 +167,7 @@ pip install -r requirements.txt
 
 # Usage
 
-Launch Jupyter Notebook:
+1. Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
@@ -161,13 +179,13 @@ or
 jupyter lab
 ```
 
-Open:
+2. Open:
 
 ```text
 Documentation.ipynb
 ```
 
-Run all cells sequentially.
+3. Run all cells sequentially.
 
 ---
 
