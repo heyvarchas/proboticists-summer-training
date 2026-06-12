@@ -95,8 +95,11 @@ Decision-Tree-Hyperparameter-Tuning/
 ├── Documentation.ipynb
 ├── README.md
 ├── images/
+│   ├── dataset_head.png
+│   ├── dataset_shape_and_info.png
+│   ├── dataset_description.png
+│   ├── baseline_parameters.png
 │   ├── baseline_tree.png
-│   ├── tuned_tree.png
 │   ├── criterion_accuracy.png
 │   ├── criterion_loss.png
 │   ├── depth_accuracy.png
@@ -109,7 +112,10 @@ Decision-Tree-Hyperparameter-Tuning/
 │   ├── leafsample_loss.png
 │   ├── alpha_accuracy.png
 │   ├── alpha_loss.png
-│   └── confusion_matrix.png
+│   ├── hyperparameter_study.png
+│   ├── tuned_tree.png
+│   ├── comparison.png
+│   └── confusion_matrices.png
 │
 └── requirements.txt
 ```
